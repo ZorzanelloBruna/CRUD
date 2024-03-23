@@ -3,22 +3,58 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
+      "estoque": 10,
       "price": 5.89
     },
     {
       "id": 2,
       "name": "Notebook Mac Pro",
+      "estoque": 10,
       "price": 12000.89
     },
     {
       "id": 3,
       "name": "Sansung S20+ Ultra",
+      "estoque": 10,
       "price": "7520.89"
     },
     {
       "name": "Lapis Preto Básico",
+      "estoque": 10,
       "price": "1.50",
       "id": 4
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 1,
+      "name": "Fenix Incensos Naturais",
+      "cnpj": "51573967000102"
+    },
+    {
+      "id": 2,
+      "name": "Lirio do vale",
+      "cnpj": 70520845000193
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "name": "Bruna Zorzanello",
+      "email": "bruna@teste.com",
+      "senha": 1234
+    },
+    {
+      "id": 2,
+      "name": "Pedro Zorzanello Padilha",
+      "email": "pedro@teste.com",
+      "senha": 1234
+    },
+    {
+      "name": "Luan Padilha",
+      "email": "luan@gmail.com",
+      "senha": "123456",
+      "id": 3
     }
   ]
 }
